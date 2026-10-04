@@ -1,4 +1,4 @@
-# Sharks Node Application by DigitalOcean
+# Made by Engr. Seyab Yousafzai
 
 This is a Node JS app by DO to build and run a Node JS appliation on a Docker image with the help of Dockerfile.
 
